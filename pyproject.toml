@@ -7,7 +7,7 @@ readme = "README.md"
 packages = [{include = "bboxer_yolov5"}]
 
 [tool.poetry.dependencies]
-python = ">=3.9,<3.12"
+python = ">=3.8,<3.12"
 scipy = "1.9.1"
 opencv-python = "^4.6.0.66"
 pandas = "^1.4.4"
