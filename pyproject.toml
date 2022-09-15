@@ -25,6 +25,7 @@ ipython = "^8.4.0"
 seaborn = "^0.11.2"
 psutil = "^5.9.1"
 thop = "^0.1.1.post2207130030"
+azure-storage-blob = "^12.13.1"
 
 [build-system]
 requires = ["poetry-core"]
